@@ -50,7 +50,7 @@
 
 <br>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM202ZHl3ejZ6cWhmb2NjYXg3NXFncHpicTFzNTRnYWU0YmVrbGJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kE0rZ7eCRs9PtJHRN7/giphy.gif" width ="30"><b> Entre em Contato<!/b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM202ZHl3ejZ6cWhmb2NjYXg3NXFncHpicTFzNTRnYWU0YmVrbGJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kE0rZ7eCRs9PtJHRN7/giphy.gif" width ="30"><b> Entre em Contato <!/b>
 
 <div align='left'>
 
