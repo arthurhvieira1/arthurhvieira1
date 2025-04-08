@@ -2,16 +2,16 @@
 <h1 align="center"><b>Olá, me chamo Arthur Henrique Vieira!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=066EF7&center=true&vCenter=true&width=450&lines=Software+Engineering+Student;Dev+Front-End" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=066EF7&center=true&vCenter=true&width=450&lines=Software+Engineering+Student;Dev+Back-End;" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrbTE2c2EycGJwNGM1aWJ4ZzhzdHEwMXYxaGJhbTgxdnZpczF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJne2MeLtb4EPwq4ef/giphy.gif" width ="30"><b> Sobre Mim</b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrbTE2c2EycGJwNGM1aWJ4ZzhzdHEwMXYxaGJhbTgxdnZpczF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJne2MeLtb4EPwq4ef/giphy.gif" width ="30"><b> Sobre Mim </b>
 
 <br>
 
 - Sou um estudante do 5° semestre de Engenharia de Software na Universidade de Brasília (UnB)
-- Atualmente estou trabalhando no projeto [Relatórios IPEA](https://github.com/unb-mds/2025-1-squado09)
-- Neste projeto, estou aprofundando conhecimentos em back-end, com foco em tecnologias modernas e boas práticas para integração de aplicações utilizando APIs, Machine Learning e Processamento de Linguagem Natural na linguagem Python, além de estar atuando como DevOps.
+- Atualmente estou trabalhando no projeto [Relatórios IPEA](https://github.com/unb-mds/2025-1-squad09)
+- Neste projeto, estou aprofundando conhecimentos em desenvolvimento back-end, com foco em tecnologias modernas e boas práticas para integração de aplicações Python utilizando APIs, Machine Learning e Processamento de Linguagem Natural, além de estar atuando como DevOps.
 
 <br>
 
@@ -33,6 +33,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +51,7 @@
 
 <br>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM202ZHl3ejZ6cWhmb2NjYXg3NXFncHpicTFzNTRnYWU0YmVrbGJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kE0rZ7eCRs9PtJHRN7/giphy.gif" width ="30"><b> Entre em Contato </b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM202ZHl3ejZ6cWhmb2NjYXg3NXFncHpicTFzNTRnYWU0YmVrbGJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kE0rZ7eCRs9PtJHRN7/giphy.gif" width ="30"><b> Entre em Contato! </b>
 
 <div align='left'>
 
