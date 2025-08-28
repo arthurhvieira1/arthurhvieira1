@@ -9,10 +9,8 @@
 
 <br>
 
-- Sou um estudante do 5° semestre de Engenharia de Software na Universidade de Brasília (UnB)
-- Atualmente estou trabalhando no projeto [Relatórios IPEA](https://github.com/unb-mds/2025-1-squad09)
-- Neste projeto, estou aprofundando conhecimentos em desenvolvimento back-end, com foco em tecnologias modernas e boas práticas para integração de aplicações Python utilizando APIs, Machine Learning e Processamento de Linguagem Natural, além de estar atuando como DevOps.
-
+- Sou um estudante do 6° semestre de Engenharia de Software na Universidade de Brasília (UnB)
+- Neste momento estou focado em desenvolver minhas habilidades por meio de projetos reais e estudos mais aprofundados sobre o ciclo de Desenvolvimento de Software.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
